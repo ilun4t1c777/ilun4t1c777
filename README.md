@@ -12,8 +12,6 @@ Previously worked at: [`Dilemma`](https://dilemma.gg) [`ECHO`](https://discord.g
 
 1. [dilemma.gg](https://dilemma.gg) [ C++ ]
    - A advanced FiveM external cheat with logs manipulating (bypass).
-2. [ECHO](https://discord.gg/echogg)  [ JS / TS / Lua / React ]
-   - ECHO is a FiveM PvP server with many professional systems.
 
 <!--
 **ilun4t1c777/ilun4t1c777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
