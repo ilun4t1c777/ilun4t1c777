@@ -10,9 +10,9 @@ Previously worked at: [`Dilemma`](https://dilemma.gg) [`ECHO`](https://discord.g
 
 # Recent Projects
 
-1. [dilemma.gg](https://dilemma.gg) | C++
+1. [dilemma.gg](https://dilemma.gg) [ C++ ]
    - A advanced FiveM external cheat with logs manipulating (bypass).
-2. [ECHO](https://discord.gg/echogg) |  JS / TS / Lua / React
+2. [ECHO](https://discord.gg/echogg)  [ JS / TS / Lua / React ]
    - ECHO is a FiveM PvP server with many professional systems.
 
 <!--
