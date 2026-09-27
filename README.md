@@ -8,7 +8,7 @@ Previously worked at: [`Dilemma`](https://dilemma.gg)
 
  
 
-# Recent Projects
+# Recent Projects.
 
 1. [dilemma.gg](https://dilemma.gg) [ C++ ]
    - A advanced FiveM external cheat with logs manipulating (bypass).
