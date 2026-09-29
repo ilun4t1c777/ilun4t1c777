@@ -8,9 +8,9 @@ Previously worked at: [`Dilemma`](https://dilemma.gg)
 
  
 
-# Recent Projects
+<h1 align="center">Recent Projects</h1>
 
-1. [dilemma.gg](https://dilemma.gg) [ C++ ]
+1. [dilemma.gg](https://dilemma.gg) [ C++ ]  
 - A advanced FiveM external cheat with logs manipulating (bypass).
 
 <br>
