@@ -1,7 +1,9 @@
 Hi, I'm ilun4t1c. I'm product-focused software engineer.  [View resume](https://github.com/ilun4t1c777?tab=repositories).
 
 Previously worked at: [`Dilemma`](https://dilemma.gg)
-
+<p>
+  <img src="[https://ghstats.dev/api/sparkline?username=ilun4t1c777&days=30&width=335&height=120&hide_border=true&border_radius=15](https://ghstats.dev/api/mini?username=ilun4t1c777&theme=light&style=minimal)" alt="GitHub Stars" />
+</p>
 
 |![GitHub Profile Summary](https://github-stats-extended.vercel.app/api?username=ilun4t1c777&rank_icon=github&custom_title=Stats&show_icons=true&include_all_commits=true&theme=dark_github)|![](https://readme-stats-github.pages.dev/api/top-langs?username=ilun4t1c777&theme=dark)|
 |-----|------|
