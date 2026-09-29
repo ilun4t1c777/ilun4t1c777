@@ -65,16 +65,6 @@ Previously worked at: [`Dilemma`](https://dilemma.gg)
     </a>&nbsp;
     <a href="https://clickup.com/" target="_blank">
       <img align="center" style="margin: 10px" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/clickup-auto.svg" alt="ClickUp-icon" height="45" title="ClickUp"/>
-    </a>
-  </p>
-    <a href="https://taiga.io/" target="_blank">
-      <img align="center" style="margin: 10px" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/taiga-auto.svg" alt="Taiga-icon" height="45" title="Taiga"/>
-    </a>&nbsp;
-    <a href="https://www.notion.com/" target="_blank">
-      <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Notion-Dark.svg" alt="Notion-icon" height="45" title="Notion"/>
-    </a>&nbsp;
-    <a href="https://jupyter.org/" target="_blank">
-      <img align="center" style="margin: 10px" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/jupyter-auto.svg" alt="Jupyter-icon" height="45" title="Jupyter"/>
     </a>&nbsp;
     <a href="https://www.postman.com/" target="_blank">
       <img align="center" style="margin: 10px" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/postman.svg" alt="Postman-icon" height="45" title="Postman"/>
@@ -132,12 +122,6 @@ Previously worked at: [`Dilemma`](https://dilemma.gg)
     </a>&nbsp;
     <a href="https://www.w3schools.com/python/" target="_blank">
       <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python-icon" height="45" title="Python"/>
-    </a>&nbsp;
-    <a href="https://playwright.dev/docs/intro" target="_blank">
-      <img align="center" style="margin: 10px" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/playwright-auto.svg" alt="Playwright-icon" height="45" title="Playwright"/>
-    </a>&nbsp;
-    <a href="https://www.w3schools.com/r/" target="_blank">
-      <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/R-Dark.svg" alt="RLanguage-icon" height="45" title="R Language"/>
     </a>
   </p>
 </div>
