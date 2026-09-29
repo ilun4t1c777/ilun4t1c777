@@ -15,7 +15,11 @@ Previously worked at: [`Dilemma`](https://dilemma.gg)
 | ![GitHub Profile Summary](https://ghstats.dev/api/card?username=ilun4t1c777&hide_border=true&border_radius=10&hide=followers%2Cavg%2Cstars%2Crepos%2Cgrade%2Cactive_day%2Cstreak%2Cweek) | ![](https://readme-stats-github.pages.dev/api/top-langs?username=ilun4t1c777&theme=dark) |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
 
-<h1 align="center">Recent Projects</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=800&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Recent;Projects)](https://git.io/typing-svg)" alt="Typing SVG" />
+  </a>
+</p>
 
 1. [dilemma.gg](https://dilemma.gg) [ C++ ]  
 - A advanced FiveM external cheat with logs manipulating (bypass).
