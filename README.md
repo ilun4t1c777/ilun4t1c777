@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=800&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=ilun4t1c;16+years+old;fullstack+developer)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=800&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=ilun4t1c;16+years+old;fullstack+developer" alt="Typing SVG" />
+  </a>
+</p>
 
 Hi, I'm ilun4t1c. I'm product-focused software engineer. [View resume](https://github.com/ilun4t1c777?tab=repositories).
 
