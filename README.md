@@ -124,7 +124,7 @@ Previously worked at: [`Dilemma`](https://dilemma.gg)
     <a href="https://www.w3schools.com/cs/" target="_blank">
       <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="CSharp-icon" height="45" title="CSharp"/>
     <a href="https://www.w3schools.com/c++/" target="_blank">
-      <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C++.svg" alt="CSharp-icon" height="45" title="C++"/>
+      <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++" height="45" title="C++"/>
     </a>&nbsp;
     <a href="https://learn.microsoft.com/en-us/dotnet/core/introduction" target="_blank">
       <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" alt=".NETCore-icon" height="45" title=".NET Core"/>
