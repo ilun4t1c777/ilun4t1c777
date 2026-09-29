@@ -26,7 +26,7 @@ Previously worked at: [`Dilemma`](https://dilemma.gg)
   <img src="https://ghstats.dev/api/sparkline?username=ilun4t1c777&days=30&width=335&height=120&hide_border=true&border_radius=15" alt="GitHub Sparkline" />
 </p>
 
-<h3 align="center"><img src="https://icons-for-free.com/download-icon-Coding-1320568096072194118_256.ico" width="36" alt="ToolsUsed-gif">&nbsp; Tech stack</h3>
+<h3 align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjSRw7x1oH3crzLTEicuN_bLTdGdMnq6BSxNrsyGQPBA&s=10" width="36" alt="ToolsUsed-gif">&nbsp; Tech stack</h3>
 
 <h4 align="center">IDEs & GUIs</h4>
 
