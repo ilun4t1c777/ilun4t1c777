@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.pinimg.com/originals/f9/ea/9e/f9ea9efb690f39daeb1286f7a83c873f.gif" alt="GitHub Banner" />
+</p>
+
 Hi, I'm ilun4t1c. I'm product-focused software engineer. [View resume](https://github.com/ilun4t1c777?tab=repositories).
 
 Previously worked at: [`Dilemma`](https://dilemma.gg)
