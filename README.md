@@ -3,7 +3,7 @@ Hi, I'm ilun4t1c. I'm product-focused software engineer.  [View resume](https://
 Previously worked at: [`Dilemma`](https://dilemma.gg)
 
 
-|![GitHub Profile Summary](https://github-stats-extended.vercel.app/api?username=ilun4t1c777&rank_icon=github&custom_title=Stats&show_icons=true&include_all_commits=true&theme=dark_github)|![](https://github-stats-extended.vercel.app/api/top-langs?username=ilun4t1c777&layout=donut&langs_count=5&hide_values=true&theme=dark_github)|
+|![GitHub Profile Summary](https://github-stats-extended.vercel.app/api?username=ilun4t1c777&rank_icon=github&custom_title=Stats&show_icons=true&include_all_commits=true&theme=dark_github)|![](![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=ilun4t1c777&theme=dark))|
 |-----|------|
 
  
