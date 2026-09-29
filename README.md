@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/1t29zhdm/Terminal-typing-text-animation-20260929143024.gif" width="100%" height="50" alt="GitHub Banner" />
+  <img src="https://d1p1y5pyxk2k6i.cloudfront.net/443pa%2Fpreview%2F81120640%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1790689953&Signature=KLtQhKwNeSswnIydu8e6YVprJH8iEozH63gfXSuaP2tECb4as49WCLCDhtIJW30048GlRzHy9NOctfZziQ9idDbN3zua-6AHQkQMtThcuokgZtU97Pj9I6OTxFr-Ji~645yz1aCbBunOWrm9NsmPKkpzvtI-Im9ZHZx23dPup~E87Rb55dmTZ-OGBv~tIbw6L9J1yZyukB4ADP5UXK82YSSRVzXOLhQ1M4c9bGd2xqBFzH5HIWDtzx4lmMaQ94sc02KGZLQ0l-qOGB~c~0oApQrfg~01eet4iPTS3sxGoByGeXVvwGx-jbKKAFQ3MgF7Im5tiiteUEUdae8NvL3OVA__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" width="100%" height="50" alt="GitHub Banner" />
 </p>
 
 Hi, I'm ilun4t1c. I'm product-focused software engineer. [View resume](https://github.com/ilun4t1c777?tab=repositories).
