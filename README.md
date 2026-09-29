@@ -17,7 +17,7 @@ Previously worked at: [`Dilemma`](https://dilemma.gg)
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=800&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Recent;Projects" alt="Projects" />
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=800&pause=400&color=F7F7F7&center=true&vCenter=true&width=435&lines=Recent;projects" alt="Projects" />
   </a>
 </p>
 
