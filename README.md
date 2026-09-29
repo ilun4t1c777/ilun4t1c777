@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.gif" width="100%" height="50" alt="GitHub Banner" />
+  <img src="banner.gif" width="100%" height="85" alt="GitHub Banner" />
 </p>
 
 Hi, I'm ilun4t1c. I'm product-focused software engineer. [View resume](https://github.com/ilun4t1c777?tab=repositories).
