@@ -6,6 +6,9 @@ Previously worked at: [`Dilemma`](https://dilemma.gg)
 |![GitHub Profile Summary](https://github-stats-extended.vercel.app/api?username=ilun4t1c777&rank_icon=github&custom_title=Stats&show_icons=true&include_all_commits=true&theme=dark_github)|![](https://readme-stats-github.pages.dev/api/top-langs?username=ilun4t1c777&theme=dark)|
 |-----|------|
 
+|![GitHub Sparkline](https://ghstats.dev/api/sparkline?username=ilun4t1c777&days=30&width=335&height=120&hide_border=true&border_radius=15)|
+|-----|
+
  
 
 # Recent Projects
