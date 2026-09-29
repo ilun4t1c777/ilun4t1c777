@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="banner.gif" width="95%" height="75" alt="GitHub Banner" />
-</div>
-
 Hi, I'm ilun4t1c. I'm product-focused software engineer. [View resume](https://github.com/ilun4t1c777?tab=repositories).
 
 Previously worked at: [`Dilemma`](https://dilemma.gg)
