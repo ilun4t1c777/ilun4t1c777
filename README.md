@@ -111,8 +111,8 @@ Previously worked at: [`Dilemma`](https://dilemma.gg)
     <a href="https://www.w3schools.com/php/" target="_blank">
       <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="PHP-icon" height="45" title="PHP"/>
     </a>&nbsp;
-    <a href="https://laravel.com/" target="_blank">
-      <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" alt="Laravel-icon" height="45" title="Laravel"/>
+    <a href="https://www.w3schools.com/typescript/" target="_blank">
+      <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TS-Dark.svg" alt="Laravel-icon" height="45" title="Laravel"/>
     </a>
   </p>
 </div>
