@@ -11,10 +11,13 @@ Previously worked at: [`Dilemma`](https://dilemma.gg)
 # Recent Projects
 
 1. [dilemma.gg](https://dilemma.gg) [ C++ ]
-   - A advanced FiveM external cheat with logs manipulating (bypass).
+- A advanced FiveM external cheat with logs manipulating (bypass).
 
-   |![GitHub Sparkline](https://ghstats.dev/api/sparkline?username=ilun4t1c777&days=30&width=335&height=120&hide_border=true&border_radius=15)|
-   |---|
+<br>
+
+<p align="center">
+  <img src="https://ghstats.dev/api/sparkline?username=ilun4t1c777&days=30&width=335&height=120&hide_border=true&border_radius=15" alt="GitHub Sparkline" />
+</p>
 
 <!--
 **ilun4t1c777/ilun4t1c777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
