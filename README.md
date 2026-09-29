@@ -112,7 +112,7 @@ Previously worked at: [`Dilemma`](https://dilemma.gg)
       <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="PHP-icon" height="45" title="PHP"/>
     </a>&nbsp;
     <a href="https://www.w3schools.com/typescript/" target="_blank">
-      <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TS-Dark.svg" alt="Laravel-icon" height="45" title="Laravel"/>
+      <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="TS-icon" height="45" title="TS"/>
     </a>
   </p>
 </div>
@@ -123,6 +123,8 @@ Previously worked at: [`Dilemma`](https://dilemma.gg)
   <p align="center">
     <a href="https://www.w3schools.com/cs/" target="_blank">
       <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="CSharp-icon" height="45" title="CSharp"/>
+    <a href="https://www.w3schools.com/c++/" target="_blank">
+      <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C++.svg" alt="CSharp-icon" height="45" title="C++"/>
     </a>&nbsp;
     <a href="https://learn.microsoft.com/en-us/dotnet/core/introduction" target="_blank">
       <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" alt=".NETCore-icon" height="45" title=".NET Core"/>
