@@ -6,15 +6,15 @@ Previously worked at: [`Dilemma`](https://dilemma.gg)
 |![GitHub Profile Summary](https://github-stats-extended.vercel.app/api?username=ilun4t1c777&rank_icon=github&custom_title=Stats&show_icons=true&include_all_commits=true&theme=dark_github)|![](https://readme-stats-github.pages.dev/api/top-langs?username=ilun4t1c777&theme=dark)|
 |-----|------|
 
-|![GitHub Sparkline](https://ghstats.dev/api/sparkline?username=ilun4t1c777&days=30&width=335&height=120&hide_border=true&border_radius=15)|
-|-----|
-
  
 
 # Recent Projects
 
 1. [dilemma.gg](https://dilemma.gg) [ C++ ]
    - A advanced FiveM external cheat with logs manipulating (bypass).
+
+   |![GitHub Sparkline](https://ghstats.dev/api/sparkline?username=ilun4t1c777&days=30&width=335&height=120&hide_border=true&border_radius=15)|
+|-----|
 
 <!--
 **ilun4t1c777/ilun4t1c777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
