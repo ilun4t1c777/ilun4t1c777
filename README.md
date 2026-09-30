@@ -9,7 +9,7 @@ Hi, I'm **ilun4t1c**. I'm product-focused software engineer. [View resume](https
 Previously worked at: [`Dilemma`](https://dilemma.gg)
 
 <p align="center">
-<img src="https://ghstats.dev/api/mini?username=ilun4t1c777&theme=light&style=minimal" alt="GitHub Stars" />
+<img src="https://ghstats.dev/api/mini?username=ilun4t1c777&theme=light&color=0077b6&style=minimal" alt="GitHub Mini Badge" />
 </p>
 
 | ![GitHub Profile Summary](https://ghstats.dev/api/card?username=ilun4t1c777&hide_border=true&border_radius=10&hide=followers%2Cavg%2Cstars%2Crepos%2Cgrade%2Cactive_day%2Cstreak%2Cweek) | ![](https://readme-stats-github.pages.dev/api/top-langs?username=ilun4t1c777&theme=dark) |
