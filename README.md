@@ -14,115 +14,66 @@ Previously worked at: [`Dilemma`](https://dilemma.gg)
 
 <br>
 
-<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<table>
   <tr>
-    <!-- LEFT: Tech Stack (mais compacto) -->
-    <td width="52%" valign="top">
+    <!-- LEFT: Recent Projects -->
+    <td width="45%" valign="top">
 
-<h3 align="center">
-<img src="https://i.pinimg.com/originals/22/4a/b7/224ab7cc2f440db6f4c427d747340707.gif" width="28" alt="ToolsUsed-gif">&nbsp; Tech stack
-</h3>
+### Recent Projects
 
-<h4 align="center">IDEs & GUIs</h4>
-<p align="center">
-<a href="https://code.visualstudio.com/" target="_blank">
-<img style="margin: 6px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="VSCode" height="36" title="VSCode"/>
-</a>
-<a href="https://visualstudio.microsoft.com/" target="_blank">
-<img style="margin: 6px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" alt="Visual Studio" height="36" title="Visual Studio"/>
-</a>
-<a href="https://www.w3schools.com/mysql/" target="_blank">
-<img style="margin: 6px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL" height="36" title="MySQL"/>
-</a>
-<a href="https://www.w3schools.com/postgresql/" target="_blank">
-<img style="margin: 6px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" height="36" title="PostgreSQL"/>
-</a>
-</p>
+1. [dilemma.gg](https://dilemma.gg) **[C++]**  
+   Advanced FiveM external cheat with logs manipulating (bypass).
 
-<h4 align="center">DevOps & Productivity</h4>
-<p align="center">
-<a href="https://docs.github.com/en/get-started" target="_blank">
-<img style="margin: 6px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" height="36" title="GitHub"/>
-</a>
-<a href="https://www.w3schools.com/git/" target="_blank">
-<img style="margin: 6px" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/git-auto.svg" alt="Git" height="36" title="Git"/>
-</a>
-<a href="https://docs.github.com/en/get-started" target="_blank">
-<img style="margin: 6px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" alt="GitLab" height="36" title="GitLab"/>
-</a>
-<a href="https://azure.microsoft.com/en-us/products/devops" target="_blank">
-<img style="margin: 6px" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/azuredevops-auto.svg" alt="Azure DevOps" height="36" title="Azure DevOps"/>
-</a>
-<a href="https://clickup.com/" target="_blank">
-<img style="margin: 6px" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/clickup-auto.svg" alt="ClickUp" height="36" title="ClickUp"/>
-</a>
-<a href="https://www.postman.com/" target="_blank">
-<img style="margin: 6px" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/postman.svg" alt="Postman" height="36" title="Postman"/>
-</a>
-</p>
-
-<h4 align="center">Front-end</h4>
-<p align="center">
-<a href="https://www.w3schools.com/html/" target="_blank">
-<img style="margin: 6px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML5" height="36" title="HTML5"/>
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank">
-<img style="margin: 6px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS3" height="36" title="CSS3"/>
-</a>
-<a href="https://www.w3schools.com/js/" target="_blank">
-<img style="margin: 6px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" height="36" title="JavaScript"/>
-</a>
-<a href="https://www.w3schools.com/bootstrap/bootstrap_get_started.asp" target="_blank">
-<img style="margin: 6px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="Bootstrap" height="36" title="Bootstrap"/>
-</a>
-<a href="https://www.w3schools.com/jquery/" target="_blank">
-<img style="margin: 6px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg" alt="jQuery" height="36" title="jQuery"/>
-</a>
 <br>
-<a href="https://www.w3schools.com/react/" target="_blank">
-<img style="margin: 6px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React" height="36" title="React"/>
-</a>
-<a href="https://www.w3schools.com/nodejs/" target="_blank">
-<img style="margin: 6px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Node.js" height="36" title="Node.js"/>
-</a>
-<a href="https://www.w3schools.com/php/" target="_blank">
-<img style="margin: 6px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="PHP" height="36" title="PHP"/>
-</a>
-<a href="https://www.w3schools.com/typescript/" target="_blank">
-<img style="margin: 6px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="TypeScript" height="36" title="TypeScript"/>
-</a>
-</p>
 
-<h4 align="center">Back-end</h4>
 <p align="center">
-<a href="https://www.w3schools.com/cs/" target="_blank">
-<img style="margin: 6px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="C#" height="36" title="C#"/>
-</a>
-<a href="https://www.w3schools.com/c++/" target="_blank">
-<img style="margin: 6px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++" height="36" title="C++"/>
-</a>
-<a href="https://learn.microsoft.com/en-us/dotnet/core/introduction" target="_blank">
-<img style="margin: 6px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" alt=".NET Core" height="36" title=".NET Core"/>
-</a>
-<a href="https://www.w3schools.com/python/" target="_blank">
-<img style="margin: 6px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" height="36" title="Python"/>
-</a>
+<img src="https://ghstats.dev/api/sparkline?username=ilun4t1c777&days=30&width=260&height=90&hide_border=true&border_radius=12" alt="GitHub Sparkline" />
 </p>
 
     </td>
 
-    <!-- RIGHT: Recent Projects -->
-    <td width="48%" valign="top">
+    <!-- RIGHT: Tech Stack -->
+    <td width="55%" valign="top">
 
-<h1 align="center">Recent Projects</h1>
+### <img src="https://i.pinimg.com/originals/22/4a/b7/224ab7cc2f440db6f4c427d747340707.gif" width="26" alt="Tools">&nbsp; Tech stack
 
-1. [dilemma.gg](https://dilemma.gg) [ C++ ]
-   - A advanced FiveM external cheat with logs manipulating (bypass).
+**IDEs & GUIs**  
+<p>
+<a href="https://code.visualstudio.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" height="32" title="VSCode"/></a>
+<a href="https://visualstudio.microsoft.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" height="32" title="Visual Studio"/></a>
+<a href="https://www.w3schools.com/mysql/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" height="32" title="MySQL"/></a>
+<a href="https://www.w3schools.com/postgresql/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" height="32" title="PostgreSQL"/></a>
+</p>
 
-<br>
+**DevOps & Productivity**  
+<p>
+<a href="https://docs.github.com/en/get-started"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" height="32" title="GitHub"/></a>
+<a href="https://www.w3schools.com/git/"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/git-auto.svg" height="32" title="Git"/></a>
+<a href="https://docs.github.com/en/get-started"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" height="32" title="GitLab"/></a>
+<a href="https://azure.microsoft.com/en-us/products/devops"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/azuredevops-auto.svg" height="32" title="Azure DevOps"/></a>
+<a href="https://clickup.com/"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/clickup-auto.svg" height="32" title="ClickUp"/></a>
+<a href="https://www.postman.com/"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/postman.svg" height="32" title="Postman"/></a>
+</p>
 
-<p align="center">
-<img src="https://ghstats.dev/api/sparkline?username=ilun4t1c777&days=30&width=280&height=100&hide_border=true&border_radius=15" alt="GitHub Sparkline" />
+**Front-end**  
+<p>
+<a href="https://www.w3schools.com/html/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" height="32" title="HTML5"/></a>
+<a href="https://www.w3schools.com/css/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" height="32" title="CSS3"/></a>
+<a href="https://www.w3schools.com/js/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" height="32" title="JavaScript"/></a>
+<a href="https://www.w3schools.com/bootstrap/bootstrap_get_started.asp"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" height="32" title="Bootstrap"/></a>
+<a href="https://www.w3schools.com/jquery/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg" height="32" title="jQuery"/></a>
+<a href="https://www.w3schools.com/react/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" height="32" title="React"/></a>
+<a href="https://www.w3schools.com/nodejs/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" height="32" title="Node.js"/></a>
+<a href="https://www.w3schools.com/php/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" height="32" title="PHP"/></a>
+<a href="https://www.w3schools.com/typescript/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" height="32" title="TypeScript"/></a>
+</p>
+
+**Back-end**  
+<p>
+<a href="https://www.w3schools.com/cs/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" height="32" title="C#"/></a>
+<a href="https://www.w3schools.com/c++/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" height="32" title="C++"/></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/core/introduction"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" height="32" title=".NET Core"/></a>
+<a href="https://www.w3schools.com/python/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="32" title="Python"/></a>
 </p>
 
     </td>
@@ -132,22 +83,5 @@ Previously worked at: [`Dilemma`](https://dilemma.gg)
 <br>
 
 <div align="center">
-<a href="#">
-<img width="100%" align="center" src="https://capsule-render.vercel.app/api?type=rect&color=151923&height=2&section=header&%20render">
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=151923&height=2&section=header">
 </div>
-
-<!--
-**ilun4t1c777/ilun4t1c777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
