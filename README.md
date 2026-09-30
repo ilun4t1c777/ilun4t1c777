@@ -30,11 +30,6 @@ Previously worked at: [`Dilemma`](https://dilemma.gg)
 <img src="https://ghstats.dev/api/sparkline?username=ilun4t1c777&days=30&width=260&height=90&hide_border=true&border_radius=12" alt="GitHub Sparkline" />
 </p>
 
-    </td>
-
-    <!-- RIGHT: Tech Stack -->
-    <td width="55%" valign="top">
-
 ### <img src="https://i.pinimg.com/originals/22/4a/b7/224ab7cc2f440db6f4c427d747340707.gif" width="26" alt="Tools">&nbsp; Tech stack
 
 **IDEs & GUIs**  
@@ -76,7 +71,6 @@ Previously worked at: [`Dilemma`](https://dilemma.gg)
 <a href="https://www.w3schools.com/python/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="32" title="Python"/></a>
 </p>
 
-    </td>
   </tr>
 </table>
 
