@@ -46,7 +46,6 @@ Advanced FiveM external cheat with logs manipulating (bypass).
 <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/git-auto.svg" height="30" title="Git"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" height="30" title="GitLab"/>
 <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/azuredevops-auto.svg" height="30" title="Azure DevOps"/>
-<img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/clickup-auto.svg" height="30" title="ClickUp"/>
 <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/postman.svg" height="30" title="Postman"/>
 
 **Front-end**  
