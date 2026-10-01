@@ -60,6 +60,7 @@ Advanced FiveM external cheat with logs manipulating (bypass).
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" height="30" title="TypeScript"/>
 
 **Back-end**  
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" height="30" title="C"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" height="30" title="C#"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" height="30" title="C++"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" height="30" title=".NET Core"/>
